@@ -4,6 +4,7 @@ package com.xyp.tiange.ndkdemo;
  * User: xyp
  * Date: 2017/8/11
  * Time: 11:18
+ *jni中的c代码是执行在Linux进程中的，而不是在虚拟机
  */
 
 public class NativeHelper {
